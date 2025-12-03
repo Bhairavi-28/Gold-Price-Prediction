@@ -37,26 +37,14 @@ The dataset is included in this repository:
 
 ---
 
-#### Installation
-
-Clone the repository:
- - git clone [https://github.com/yourusername/gold-price-prediction.git](https://github.com/Bhairavi-28/Gold-Price-Prediction)
- - cd gold-price-prediction
-
-Install dependencies:
- - pip install -r requirements.txt
-
----
-
-#### How to Run
-Run the Python script or open the notebook:
-  - python gold_rf_model.py
-
----
-
 #### Results
 
-- Achieved an R² score of approximately 0.98–0.99, depending on split
+- Achieved scores:
+    - R squared error :  0.9900411625357386
+    - MAE:  1.2409960695414846
+    - RMSE:  2.3367562009346283
+    - Pearson Correlation:  0.9950120323665074
+    - MAPE (%):  1.0062523284551306
 - Random Forest shows strong alignment between actual and predicted prices
 - Plot visualizations clearly show trends learned by the model
 
