@@ -40,7 +40,7 @@ The dataset is included in this repository:
 #### Installation
 
 Clone the repository:
- - git clone https://github.com/yourusername/gold-price-prediction.git
+ - git clone [https://github.com/yourusername/gold-price-prediction.git](https://github.com/Bhairavi-28/Gold-Price-Prediction)
  - cd gold-price-prediction
 
 Install dependencies:
