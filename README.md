@@ -71,3 +71,16 @@ See the "LICENSE" file for details.
 - Dataset Source:
 [https://www.kaggle.com/<link-here>
 ](https://www.kaggle.com/datasets/altruistdelhite04/gold-price-data)
+
+---
+
+### Version 2
+This version uses Long Short-Term Memory for predicting the value of gold "GLD".
+
+##### Result
+MAE: 0.6473401644222869
+RMSE: 0.8347912061516499
+R2 Score: 0.8982861886001529
+Pearson Correlation: 0.9507255602976111
+Spearman Rank Correlation:  0.9030907125903161
+MAPE (%):  0.5181937674332978
